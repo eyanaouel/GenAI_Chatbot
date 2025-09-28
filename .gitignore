@@ -1,0 +1,7 @@
+# Ne jamais partager le API Key
+.env
+
+# Cache et autres fichiers inutiles
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
